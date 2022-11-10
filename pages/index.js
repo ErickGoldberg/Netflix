@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
         <div className={styles.container}>
-        <h1 id={styles.titulo}>Entrar</h1>
+        <h1 id={styles.titulo}>Entrarr</h1>
             <input type="email" placeholder='Email' id={styles.input1} className={styles.box}></input>
             <br></br>
             <input type="password" placeholder='Senha' id={styles.input2} className={styles.box}></input>
