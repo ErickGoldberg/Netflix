@@ -2,18 +2,6 @@ import Image from 'next/Image'
 import Link from 'next/link'
 import styled from 'styled-components'
 
-/*
-Background color #141414
-estilos geral
-
-*/
-
-
-
-
-
-
-
 export default function Home(){
 
     return(

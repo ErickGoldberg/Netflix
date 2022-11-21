@@ -2,12 +2,6 @@ import Link from 'next/link'
 import styles from '../styles/Home.module.css'
 import Background from 'next/image'
 
-/*                                                                                                 
-FUNCIONAR CSS NA HOME.JS
-background n ficar bzarro assim(responsivo)
-
-*/
-
 export default function Login() {
   return (
     <div>
